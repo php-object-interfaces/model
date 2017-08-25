@@ -1,0 +1,26 @@
+{
+    "name": "php-object-interfaces/model",
+    "description": "Controller which renders a template and returns a response (HttpFoundation)",
+    "keywords": ["controller", "symfony", "snowyowl"],
+    "homepage": "https://github.com/php-object-interfaces/model",
+    "license": "ISC",
+    "authors": [
+        {"name": "Jean-bernard Addor"},
+        {"name": "Community", "homepage": "https://github.com/php-object-interfaces/model"}
+    ],
+    "require": {
+    },
+    "require-dev": {
+    },
+    "suggest": {
+    },
+    "autoload": {
+        "psr-4": { "PhpObjectInterfaces\\Model\\": "" }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        }
+    }
+}
+
